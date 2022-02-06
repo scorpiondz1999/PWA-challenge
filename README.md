@@ -18,3 +18,18 @@ Enter expenses offline
 ![2022-02-05 (1)](https://user-images.githubusercontent.com/84550325/152664164-43b20fa3-28d6-4529-b0c7-17a44fad857e.png)
 
 
+Features
+
+
+Node
+Express
+JavaScript
+MongoDB
+Mongoose
+Progressive Web Application
+
+
+Licens
+
+Licensed under the MIT license.
+
