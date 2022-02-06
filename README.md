@@ -11,3 +11,7 @@ Enter deposits offline
 
 Enter expenses offline
 
+
+![2022-02-05](https://user-images.githubusercontent.com/84550325/152664147-4acb5809-506e-43a9-ab5c-90883b9e8d8e.png)
+
+
